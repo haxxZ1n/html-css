@@ -1,0 +1,96 @@
+@charset "UTF-8";
+
+body {
+            background-color:rgb(51, 51, 51);
+}
+
+h1 {
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tumbs1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tumbs2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.video1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ancora1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.botao1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.video2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ancora2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.botao2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.video3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ancora3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.botao3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.video4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ancora4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.botao4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
