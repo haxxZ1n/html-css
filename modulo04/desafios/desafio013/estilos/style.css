@@ -7,9 +7,8 @@
 }
 
 html, body {
-    width: 100vh;
+    width: 100%;
     height: 100vw;
-    background-color: black;
 }
 
 body {
@@ -21,6 +20,7 @@ body {
 main {
     height: 100vh;
     position: relative;
+
 }
 
 section#telefone {
@@ -60,7 +60,7 @@ iframe#tela {
     position: relative;
     top: 80px;
     left: 22px;
-    width: 269px;
+    width: 267px;
     height: 471px;
 }
 
